@@ -1,0 +1,31 @@
+h1{
+    color:red;
+}
+h2{
+    color:rgb(255, 255, 0);
+
+}
+a{
+    color:green;
+}
+body{
+    background-color: rgb(160, 223, 223);
+}
+img{
+    width: 500px;
+    border: 5px white solid;
+    margin-left: 20px;
+
+}
+.btext{
+    font-size: 1.5rem;
+}
+:hover{
+    color: black;
+    
+}
+@font-face {
+    font-family: "teddy bear";
+    src: url(шрифт\teddy-bear.ttf);
+
+}
